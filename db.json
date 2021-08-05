@@ -1,0 +1,26 @@
+"products": [
+  {
+    "code": "1",
+    "name": "name 1",
+    "color": "green",
+    "size": "M",
+    "pattern_length": "180cm",
+    "rfid_sirial_number": "123456"
+  },
+  {
+    "code": "2",
+    "name": "name 2",
+    "color": "red",
+    "size": "S",
+    "pattern_length": "180cm",
+    "rfid_sirial_number": "123456"
+  },
+  {
+    "code": "3",
+    "name": "name 3",
+    "color": "yellow",
+    "size": "L",
+    "pattern_length": "180cm",
+    "rfid_sirial_number": "123456"
+  }
+  ]
